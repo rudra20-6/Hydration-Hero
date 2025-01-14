@@ -4,9 +4,9 @@ This is a small game that my teammates and I developed using Python and Pygame d
 
 ## Contributors  
 
-- [Rudra Choudhary](https://github.com/rudra20-6)  
-- [Mitul Sheth](https://github.com/aristocrat71)  
-- [Malay Muskan](https://github.com/ma-lay)  
+- Rudra Choudhary[rudra20-7](https://github.com/rudra20-6)  
+- Mitul Sheth[aristocrat71](https://github.com/aristocrat71)  
+- Malay Muskan[ma-lay](https://github.com/ma-lay)  
 
 
 ---
